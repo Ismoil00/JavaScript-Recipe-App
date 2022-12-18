@@ -79,7 +79,6 @@ async function searchMealByName(name) {
   } else {
     displaySearchMeals(data);
   }
-  console.log(data);
 }
 
 //Fetching Random Meal from API:
